@@ -1,6 +1,4 @@
-# log-mel-speech-to-text
-Log-Mel Tabanlı Ses Analizi ve CNN-BiLSTM-CTC ile Metne Dönüştürme 
-# 🎙️ Log-Mel Tabanlı Ses Analizi ve CNN-BiLSTM-CTC ile Metne Dönüştürme
+# Log-Mel Tabanlı Ses Analizi ve CNN-BiLSTM-CTC ile Metne Dönüştürme
 
   Bu proje, Karadeniz Teknik Üniversitesi (KTÜ) Bilgisayar Mühendisliği Bölümü Sinyaller ve Sistemler Dersi Dönem Projesi kapsamında geliştirilmektedir.
 
